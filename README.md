@@ -3,4 +3,4 @@ proyecto para mandar mensajes de wsp a varios numeros
 
 CAPTURAS DEL PROYECTO:
 
-<img src="" width="600" />
+<img src="https://github.com/eliasescalante/wsp_msj_api/blob/main/capture.png" width="600" />
